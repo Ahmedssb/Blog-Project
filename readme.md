@@ -4,26 +4,26 @@
 ## Key Features
 
 ### Admin: 
-  1)Add delete update Section 
-  2)Add delete update user 
-  3)add delete update posts 
-  4)Change users rule /user / editor 
+  * Add delete update Section 
+  * Add delete update user 
+  * add delete update posts 
+  * Change users rule /user / editor 
    --------------------------------------------------------
 ### editor:
-  1)add delete update posts
+  * add delete update posts
     ------------------------------------------------------
 ### Registered user:
- 1) add see comment 
+ * add see comment 
    ----------------------------------------------------------
 ###Normal user :
-  1) View posts only
+  * View posts only
   
     --------------------------------------------------------------------------
 ## Screen Shots :
  ### Admin Panel 
 ![User Home Page](/images/admin_home.PNG) 
 
-![User Home Page](/images/admin_post.PNG) 
+![User Home Page](public/images/admin_post.PNG) 
 
 
 -----------------------------------------------------------------
