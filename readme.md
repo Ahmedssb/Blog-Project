@@ -4,16 +4,21 @@
 ## Key Features
 
 ### Admin: 
-  * Add delete update Section 
-  * Add delete update user 
-  * Add delete update posts 
+  * Add /delete /update Section 
+  * Add /delete /update user 
+  * Add /delete u/pdate posts 
   * Change users rule /user / editor 
    --------------------------------------------------------
 ### Editor:
-  * Add delete update posts
+  * Add posts
+  * Update posts
+  * Delete posts
+
     ------------------------------------------------------
 ### Registered user:
- * Add / view comment 
+ * Add comment 
+ * View comments 
+
    ----------------------------------------------------------
 ### Normal user :
   * View posts only
