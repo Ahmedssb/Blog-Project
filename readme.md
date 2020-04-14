@@ -9,19 +9,19 @@
   * add delete update posts 
   * Change users rule /user / editor 
    --------------------------------------------------------
-### editor:
+### Editor:
   * add delete update posts
     ------------------------------------------------------
 ### Registered user:
  * add see comment 
    ----------------------------------------------------------
-###Normal user :
+### Normal user :
   * View posts only
   
     --------------------------------------------------------------------------
 ## Screen Shots :
  ### Admin Panel 
-![User Home Page](/images/admin_home.PNG) 
+![User Home Page](public/images/admin_home.PNG) 
 
 ![User Home Page](public/images/admin_post.PNG) 
 
@@ -29,15 +29,12 @@
 -----------------------------------------------------------------
 
 ## Users :
-![User Home Page](/images/user_home.PNG) 
+![User Home Page](public/images/user_home.PNG) 
 
-![User Home Page](/images/section_posts.PNG) 
+![User Home Page](public/images/section_posts.PNG) 
 
-![User Home Page](/images/user_post.PNG) 
+![User Home Page](public/images/user_post.PNG) 
 
-
-
-
-
+    
 ####   Feel free to use this project
 
