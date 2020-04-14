@@ -1,14 +1,14 @@
 # Tech Fox Blog 
 ##### blog website built by laravel framework .
   ---------------------------------------------------------
-##Key Features
+## Key Features
 
 ### Admin: 
   1)Add delete update Section 
   2)Add delete update user 
   3)add delete update posts 
   4)Change users rule /user / editor 
-    --------------------------------------------------------
+   --------------------------------------------------------
 ### editor:
   1)add delete update posts
     ------------------------------------------------------
