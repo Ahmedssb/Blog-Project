@@ -1,5 +1,7 @@
 # Tech Fox Blog 
-##### blog website built by laravel framework .
+#### blog website built by laravel framework .
+#####   Feel free to use this project
+
   ---------------------------------------------------------
 ## Key Features
 
@@ -31,17 +33,13 @@
 ![User Home Page](public/images/admin_post.PNG) 
 
 
------------------------------------------------------------------
 
 ## Users :
 ![User Home Page](public/images/user_home.PNG) 
-    --------------------------------------------------------------------------
 
 ![User Home Page](public/images/section_posts.PNG) 
-    --------------------------------------------------------------------------
 
 ![User Home Page](public/images/user_post.PNG) 
 
     
-####   Feel free to use this project
 
