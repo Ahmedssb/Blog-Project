@@ -1,4 +1,4 @@
-@extends('layouts.web_app')
+@extends('../layouts.web_app')
 
 @section('title')
   Main Page
